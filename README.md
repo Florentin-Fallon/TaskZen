@@ -12,8 +12,7 @@ Cette application TaskZen est développée en utilisant React Native avec Expo. 
 
 <h2 style="font-size:20px;color:#e5e7e6;">Captures d'écran</h2>
 
-![IMG_2330](https://github.com/Florentin-Fallon/TaskZen/assets/112950552/ce434c59-2c9b-40be-822a-e2459e3de771)
-
+![IMG_2330](https://github.com/Florentin-Fallon/TaskZen/assets/112950552/7d13a6d8-1414-47d3-8742-01b24b38a7b4)
 
 <h2 style="font-size:20px;color:#e5e7e6;">Prérequis</h2>
 
